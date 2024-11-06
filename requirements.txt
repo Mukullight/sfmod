@@ -1,0 +1,15 @@
+typing
+pydantic
+transformers
+ollama
+json
+numpy
+pandas
+scikit-learn
+torch
+tensorflow
+requests
+matplotlib
+seaborn
+jupyter
+-e.
